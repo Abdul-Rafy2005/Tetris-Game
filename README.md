@@ -27,9 +27,6 @@ Leverage Raylib for efficient graphics rendering, audio playback, and window man
 ### C++: 💻
 Implement game mechanics and logic using C++, emphasizing object-oriented programming principles.
 
-### Git: 📂
-Use Git for version control, facilitating collaboration, code sharing, and efficient project management.
-
 ### Visual Studio Code: 🖥
 Develop in Visual Studio Code, a powerful and user-friendly IDE, to enhance coding productivity and streamline the development process.
 
