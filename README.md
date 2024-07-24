@@ -1,33 +1,22 @@
-# Tetris: A Modern OOP Adventure 🎮🧩
+# C++ Tetris Game using raylib
 
-Welcome to Tetris: A Modern OOP Adventure! Dive into the excitement of block-stacking with a contemporary twist, crafted using Raylib. This game is more than just a fun challenge; it's a journey into object-oriented programming.
+🕹️🐍🎮 This GitHub repository is home to the full source code for a Tetris game built with the C++ programming language and the raylib library. 💻🎨🎧 The game uses various raylib functions for graphics, input handling, and audio and can be played on Windows, macOS, and Linux computers. 🔍📖 The code is well-structured and easy to read, making it a valuable resource for aspiring game developers looking to learn about raylib game programming.
 
-This project is a semester assignment for Object Oriented Programming at FAST-NUCES Peshawar! 📚🎓
+If you want to learn how to build your own Tetris game with raylib, check out the accompanying <a href="https://youtu.be/wVYKG_ch4yM">Video Tutorial on YouTube.</a> 🎬👨‍💻 The tutorial guides you through every line of code, explaining the logic behind it and demonstrating how it affects the game. You'll discover how to set up the game window, create the Grid and block classes, add collision detection, and implement sound effects. By the end of the tutorial, you'll have a fully functional Tetris game that you can play and modify however you like. ☕ So, grab a cup of coffee and let's dive into the exciting world of game development with raylib! 🚀
 
-## Features:
-### Responsive Controls: 🎮
-Enjoy smooth and intuitive controls that make moving, rotating, and dropping tetrominoes a seamless experience.
+# Video Tutorial
 
-### Stunning Visuals: 🌈
-Experience vibrant and colorful graphics that bring the game to life with engaging animations.
+<p align="center">
+  <img src="preview.jpg" alt="" width="960">
+</p>
 
-### Addictive Gameplay: 🧠
-Strategically place tetrominoes to clear lines, manage the game board, and strive for high scores.
+<p align="center">
+🎥 <a href="https://youtu.be/wVYKG_ch4yM">Video Tutorial on YouTube</a>
+</p>
 
-### Score Tracking: 📊
-Keep an eye on your progress with a dynamic scoring system that challenges you to beat your own records.
-
-### Seamless Transitions: 🚀
-Move effortlessly between different game phases, from the splash screen and main menu to intense gameplay.
-
-## Technologies Employed:
-### Raylib: 🛠
-Leverage Raylib for efficient graphics rendering, audio playback, and window management.
-
-### C++: 💻
-Implement game mechanics and logic using C++, emphasizing object-oriented programming principles.
-
-### Visual Studio Code: 🖥
-Develop in Visual Studio Code, a powerful and user-friendly IDE, to enhance coding productivity and streamline the development process.
-
-Embark on this coding journey and create a unique version of Tetris that combines classic gameplay with modern programming techniques!
+<br>
+<br>
+<p align="center">
+| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
+| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
+</p>
